@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.Collection;
 
 /**
- * Created by green on 11/24/15.
+ * Created by green on 08/24/15.
  */
 public interface BusDAO {
     public void addBus(Bus bus) throws SQLException;
